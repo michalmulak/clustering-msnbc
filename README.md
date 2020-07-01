@@ -15,4 +15,5 @@ The challanges:
 - understandable representation of results
 
 To do:
-- implement workflow unig RAPIDS Nvidia library on GPU instance to tune up hyperparameters of UMAP algorithm
+- to implement workflow unig RAPIDS Nvidia library on GPU instance to tune up hyperparameters of UMAP algorithm (to more accurate UMAP projections and clustering)
+- to find better way to present final results - more user user friendly and readable
